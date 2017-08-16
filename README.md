@@ -124,5 +124,3 @@ Designed by PCBWay and fizzystudio team.
       Serial.println(z ,DEC);
       delay(100);
     }
-
-### More
